@@ -14,7 +14,7 @@ int main()
 	socklen_t addsize;
 	
 	sid = socket(AF_INET, SOCK_DGRAM, 0);
-	// UDP socket creation 
+	
 	if(sid==-1)
 	{
 		printf("\n No socket for server application is not created successfully.");

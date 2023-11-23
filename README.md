@@ -2,4 +2,8 @@
 Testing Local Server and Client Transmission 
 <br>
 Refer to Server-1. c and Client(2) .c
-// Last update : Nov 24, 2023 
+<br>
+Last update : Nov 24, 2023 
+Supported OS :  Linux 
+Required lib : gcc, socket
+languages : c

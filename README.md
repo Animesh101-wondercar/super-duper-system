@@ -1,5 +1,5 @@
 # super-duper-system
-Testing
+Testing Local Server and Client Transmission 
 <br>
-Again Testing 
-Author - Machine Local 1 
+Refer to Server-1. c and Client(2) .c
+// Last update : Nov 24, 2023 
